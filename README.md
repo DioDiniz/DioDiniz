@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
 
-![!DioKoda Github stats](https://github-readme-stats.vercel.app/api?username=DioKoda&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![!DioKoda Github stats](https://github-readme-stats.vercel.app/api?username=DioDiniz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 
 ## Tecnologias que utilizo no meu dia a dia
