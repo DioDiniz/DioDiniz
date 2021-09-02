@@ -19,3 +19,7 @@
 Apenas um jovem apaixonado por tecnologia, autodidata que acredita que tecnologia é o futuro.
 
 ## Email para contato:
+
+<div>
+    <img aling="center" alt="Dio-Img" src= "https://media.discordapp.net/attachments/854043277320519680/883075241566412871/picasion.com_6dd57700481fdd4bc3b5b1b38f704251.gif"/>
+</div>
