@@ -1,4 +1,4 @@
-### Olá, eu sou o Diogo Diniz ✋
+### Olá confrade, fique a vontade e pegue seu cafézinho... ☕
 
 [![Discord](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dh1xs)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
