@@ -11,7 +11,6 @@
     <img aling="center" alt="Dio-Img" src= "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
     <img aling="center" alt="Dio-Img" src= "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
     <img aling="center" alt="Dio-Img" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img align="right" alt="Dio-gif" src"https://media.tenor.com/FZG-999vZM8AAAAd/hacker-ascii.gif](https://media.tenor.com/FZG-999vZM8AAAAd/hacker-ascii.gif">
 </div><br/>
 
 eleutheria
