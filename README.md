@@ -9,11 +9,13 @@
     <img aling="center" alt="Dio-Img" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img aling="center" alt="Dio-Img" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img aling="center" alt="Dio-Img" src= "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img aling="center" alt="Dio-Img" src= "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+    <img aling="center" alt="Dio-Img" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
 
-Apenas um jovem.
+eleutheria
 
-## Email para contato:
+## Email para contato: dhios_anonimo@proton.me
 
 <div align="center">
   <a href="https://github.com/DioDiniz">
